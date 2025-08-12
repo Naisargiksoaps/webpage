@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(#dff0d8, #fdfde1);
+    color: #2f4f2f;
+    margin: 0;
+    padding: 0;
+}
+header {
+    text-align: center;
+    background: #8fbc8f;
+    padding: 1em 0;
+    color: white;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+main {
+    padding: 20px;
+}
+form input, form textarea, form button {
+    width: 100%;
+    max-width: 300px;
+    margin: 5px 0;
+    padding: 10px;
+}
+button {
+    background: #8fbc8f;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
